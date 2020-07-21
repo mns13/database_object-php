@@ -8,14 +8,12 @@ The basic concept
 
 ### Assume there are
 - DB named "Store"
-- db Table "Users".
-- Inside this table you have user_id, username and email fields.
-- db Table "Products".
-- Inside this table you have product_id, product_name and cost fields.
+- db Table "Users" with 'user_id', 'username' and 'email' fields.
+- db Table "Products" with 'product_id', 'product_name' and 'cost' fields.
 
 ### You want to
-- create an object that contains all CRUD methods that extends all other objects.
-- create an object with a method that reads fields in the database table for the corresponding object (class "User" or class "Product")
+- create a class that contains all CRUD methods for extends all other classes.
+- create a class with a method that reads fields in the database table for the corresponding object (class "User" or class "Product")
 
 ### The solution can be observed in the files.
 
