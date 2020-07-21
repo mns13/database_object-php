@@ -15,6 +15,6 @@ The basic concept
 - create a class that contains all CRUD methods for extends all other classes.
 - create a class with a method that reads fields in the database table for the corresponding object (class "User" or class "Product")
 
-### The solution can be observed in the files.
+### The solution can be observed in the db_object.php file.
 
 I hope I have explained everything in an accessible way. If you have any questions, write in a personal and i will try to answer =)
