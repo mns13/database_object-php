@@ -1,5 +1,7 @@
 ﻿<?php 
 
+#### create class that contains the idea concept
+
 class Db_object {
 
     public static function find_by_query($sql)

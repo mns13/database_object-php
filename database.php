@@ -1,5 +1,7 @@
 <?php
 
+#### create a database connection
+
 class Database {
     protected $connection;
 
